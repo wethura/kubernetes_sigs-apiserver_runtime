@@ -2,7 +2,7 @@
 
 module sigs.k8s.io/apiserver-runtime
 
-go 1.19
+go 1.22
 
 require (
 	github.com/golangci/golangci-lint v1.50.1
